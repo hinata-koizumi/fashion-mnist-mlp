@@ -1,6 +1,6 @@
 # University of Tokyo Deep Learning Course Competition
 
-English | [日本語](README.ja.md)
+English | [日本語版(Japanese)](README.ja.md)
 
 ## Competition Results
 - **Final Rank**: **11th** out of 1,466 participants
